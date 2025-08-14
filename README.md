@@ -1,8 +1,8 @@
 # Getting Started with Dynamic Form Generation System
 
-# Startup & installation Guide.
+# Startup & Installation Guide.
 
-This document will help you installation process for startup the system run on localhost.
+This document will help you with the installation process for startup the system run on localhost.
 
 This Guide is for Windows machine:
 Start with the server side:
@@ -20,7 +20,7 @@ Start with the server side:
 Client side:
 
 1. open a new terminal
-2. Go to the client dir: cd client
+2. Go to the client dir: cd client (here we already run npx create-react-app dynamic-form --template typescript for creating the react env)
 3. run: npm install && npm start
 
 open the localhost website on port 3000.
